@@ -1,0 +1,26 @@
+body{
+    background: url("images/gcar.jpg");
+    background-size: cover;
+    color: snow;
+}
+
+form{
+    padding: 40px;
+    background: #303952;
+     box-shadow: 20px 30px 0px #130f40, -20px 30px 0px #130f40;
+    color: snow;
+}
+
+.login-form #welcome{
+    font-size: 90px;
+    font-weight: 900;
+    text-align: center;
+    color: green;
+}
+
+.login-form #username{
+    font-size: 200px;
+    font-weight: 900;
+    text-align: center;
+    color: purple;
+}
